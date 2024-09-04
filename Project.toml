@@ -1,0 +1,11 @@
+name = "DensityToRDF"
+uuid = "bd646b5e-b416-4310-bf12-94768b5bfd67"
+authors = ["Maksim Posysoev <37895103+mposysoev@users.noreply.github.com>"]
+version = "0.1.0"
+
+[deps]
+BSON = "fbb218c0-5317-5bc6-957e-2ee96dd4b1f0"
+DelimitedFiles = "8bb1440f-4735-579b-a4ab-409b98df4dab"
+Flux = "587475ba-b771-5e3f-ad9e-33799f191a9c"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
